@@ -17,6 +17,9 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange) 
 
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=orange) 
+
+
 ![HTML](https://img.shields.io/badge/Code%20-HTML-orange)
 ![CSS](https://img.shields.io/badge/Code%20-CSS-orange)
 ![SASS](https://img.shields.io/badge/Code%20-SASS-orange)
