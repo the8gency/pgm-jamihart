@@ -14,7 +14,9 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ### Skills
 
-![Javascript](https://img.shields.io/badge/Code%20-Javascript-orange) 
+
+![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a
+) 
 ![HTML](https://img.shields.io/badge/Code%20-HTML-orange)
 ![CSS](https://img.shields.io/badge/Code%20-CSS-orange)
 ![SASS](https://img.shields.io/badge/Code%20-SASS-orange)
@@ -22,8 +24,15 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
  
 ---
 
-### Personal information 
+### Personal details
 
+23 years old 
+
+Harmoniestraat 17, 9050, Ledeberg
+
++32 491 55 20 66
+
+jamie-lee.hart@hotmail.com
 
 ---
 
