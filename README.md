@@ -1,7 +1,7 @@
+![banner about jamie-lee ](https://i.postimg.cc/1X76shjq/Banner-github.png)
+
 ### Hi there 👋, my name is Jamie-Lee Hart 
 ---
-
-![banner about jamie-lee ](https://i.postimg.cc/1X76shjq/Banner-github.png)
 
 #### About me 
 My name is Jamie-Lee Hart. I recently graduated from Hogent with a with a bachelor's degree in Marketing and now I am a motivated Programming student at Artevelde.
