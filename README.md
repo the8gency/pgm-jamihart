@@ -16,12 +16,13 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange) 
-![HTML](https://img.shields.io/badge/Code%20-HTML-orange)
-![CSS](https://img.shields.io/badge/Code%20-CSS-orange)
-![SASS](https://img.shields.io/badge/Code%20-SASS-orange)
-![11ty](https://img.shields.io/badge/Code%20-11ty-orange)
-![node.js](https://img.shields.io/badge/Code%20-node.js-orange)
-![11ty](https://img.shields.io/badge/Code%20-11ty-orange)
+![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
+![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=orange)
+![SASS](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=orange)
+![node.js](https://img.shields.io/badge/https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=orange) 
+![visual studio](https://img.shields.io/badge/Editor-VisualStudioCode?style=flat&logo=visual-studio-code&logoColor=white&color=orange)
+
+
 
 
  
