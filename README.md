@@ -1,4 +1,4 @@
-![banner about jamie-lee ](https://i.postimg.cc/1X76shjq/Banner-github.png)
+![banner about jamie-lee](https://i.postimg.cc/1X76shjq/Banner-github.png)
 
 ## Hi there 👋, my name is Jamie-Lee Hart 
 ---
@@ -15,19 +15,19 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 ### Skills
 
 
-![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange) 
-![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
-![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=orange)
-![SASS](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=orange)
+![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange) &nbsp; 
+![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange) &nbsp; 
+![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=orange) &nbsp; 
+![SASS](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=orange)  
 
-![node.js](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=Node.js&logoColor=white&color=blue) 
-![visual studio](https://img.shields.io/badge/Editor-VisualStudioCode?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![node.js](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=Node.js&logoColor=white&color=blue) &nbsp; 
+![visual studio](https://img.shields.io/badge/Editor-VisualStudioCode?style=flat&logo=visual-studio-code&logoColor=white&color=blue) &nbsp; 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=blue) 
 
-![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=yellow) 
-![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=yellow) 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow) 
+![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=yellow) &nbsp; 
+![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=yellow) &nbsp; 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow) &nbsp; 
 
 ---
 
@@ -49,9 +49,7 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ### Socials
 
-[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=black&color=white' alt='github' height='40'>](https://github.com/pgm-jamihart)  
-[<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/)  
-[<img src='https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=stack-overflow&logoColor=white&color=orange' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15403327)   
+[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=black&color=white' alt='github' height='40'>](https://github.com/pgm-jamihart) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/) &nbsp; [<img src='https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=stack-overflow&logoColor=white&color=orange' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15403327)   
 
 ---
 
