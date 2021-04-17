@@ -47,7 +47,10 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ---
 
-[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=black' alt='github' height='40'>](https://github.com/pgm-jamihart)  [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/)  [<img src='https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=blue' alt='facebook' height='40'>](https://www.facebook.com/jamieleehart)  [<img src='https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=stack-overflow&logoColor=white&color=orange' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15403327)   
+[<img src='https://img.shields.io/badge/%20-informational?style=flat&logo=github&logoColor=black&color=white' alt='github' height='40'>](https://github.com/pgm-jamihart)
+[<img src='https://img.shields.io/badge/%20-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/)  
+[<img src='https://img.shields.io/badge/%20-informational?style=flat&logo=facebook&logoColor=white&color=blue' alt='facebook' height='40'>](https://www.facebook.com/jamieleehart)  
+[<img src='https://img.shields.io/badge/%20-informational?style=flat&logo=stack-overflow&logoColor=white&color=orange' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15403327)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true)   
 
