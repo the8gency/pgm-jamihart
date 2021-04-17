@@ -69,5 +69,26 @@ Hogeschool Gent - *Bachelor Business Management Marketing*
 
 Mariagaard Wetteren - *Secondary Education Diploma Chemistry*
 
+---
+
+### Experience 
+
+#### LBG engineering
+*okt. 2019 - sep. 2020*
+Sint-Amandsberg
+Job student Wordpress, warehouse clerk and administrative assistant.
+
+
+#### Roeland taalvakanties vzw
+*mrt. 2019 - jun. 2020*
+Gent
+Digital & Online Marketing intern.
+
+
+#### Jeugdhuis Ekseekwo vzw
+*2017 - dec. 2019*
+Volunteer, bar employee and social media marketer.
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true)   
 
