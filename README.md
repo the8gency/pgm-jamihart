@@ -57,36 +57,37 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ### Education 
 
-`2020 - 2022`
+- **Artevelde University Gent**  
+2020 - 2022  
+*Graduate Programming*
 
-Artevelde University Gent - *Graduate Programming*
+- **Hogeschool Gent**  
+2016 - 2020
+*Bachelor Business Management Marketing* 
 
-`2016 - 2020`
-
-Hogeschool Gent - *Bachelor Business Management Marketing* 
-
-`2011 - 2015`
-
-Mariagaard Wetteren - *Secondary Education Diploma Chemistry*
+- **Mariagaard Wetteren**  
+2011 - 2015  
+*Secondary Education Diploma Chemistry*
 
 ---
 
 ### Experience 
 
-`LBG engineering` &nbsp;
-*okt. 2019 - sep. 2020*  
-Sint-Amandsberg
-Job student Wordpress, warehouse clerk and administrative assistant.
+- **LBG engineering**  
+*okt. 2019 - sep. 2020  
+Sint-Amandsberg  
+Job student Wordpress, warehouse clerk and administrative assistant.*
 
 
-`Roeland taalvakanties vzw` &nbsp;
-*mrt. 2019 - jun. 2020*
-Gent
-Digital & Online Marketing intern.
+- **Roeland taalvakanties vzw**  
+*mrt. 2019 - jun. 2020  
+Gent  
+Digital & Online Marketing intern.*
 
-`Jeugdhuis Ekseekwo vzw` &nbsp;
-*2017 - dec. 2019*
-Volunteer, bar employee and social media marketer.
+- **Jeugdhuis Ekseekwo vzw**  
+*2017 - dec. 2019  
+Gentbrugge  
+Volunteer, bar employee and social media marketer.*
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true)   
