@@ -6,3 +6,6 @@ I am a creative and innovative person with a passion for marketing, programming 
 n addition I am very punctual, I prioritize goals and efficiently organize everything to achieve those goals. 
 
 I really enjoy learning UI, UX and front-end development. Last but not least I am very eager to become a developer. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart)](https://github.com/pgm-jamihart/github-readme-stats)
+
