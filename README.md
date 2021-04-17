@@ -14,6 +14,9 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ### Skills
 
+![Javascript](https://img.shields.io/badge/Code%20-Javascript-orange)
+
+
  JS / HTML / CSS / SASS / 11ty 
  
 ---
