@@ -3,6 +3,15 @@
 ## Hi there 👋, my name is Jamie-Lee Hart 
 ---
 
+### Personal details
+
+- :cake: 23 years old (8/12/1997)
+- :house_with_garden: Harmoniestraat 17, 9050, Ledeberg
+- :telephone_receiver: +32 491 55 20 66
+- :email: jamie-lee.hart@hotmail.com
+
+---
+
 ### About me 
 I recently graduated from Hogent with a with a bachelor's degree in Marketing and now I am a motivated Programming student at Artevelde.
 
@@ -28,22 +37,6 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 ![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=yellow) &nbsp; 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow) 
-
----
-
-### Personal details
-
-- :cake: 23 years old (8/12/1997)
-- :house_with_garden: Harmoniestraat 17, 9050, Ledeberg
-- :telephone_receiver: +32 491 55 20 66
-- :email: jamie-lee.hart@hotmail.com
-
----
-
-### Current 
-
-- 🔭 I’m currently working on developing my skills as a programmer  
-- 🌱 I’m currently learning javascript frameworks  
 
 ---
 
@@ -101,5 +94,13 @@ Nathanëlla Monsaert - Internship supervisor
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true) &nbsp;  &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) 
 
+---
+
+### Current 
+
+- 🔭 I’m currently working on developing my skills as a programmer  
+- 🌱 I’m currently learning javascript frameworks  
+
+---
