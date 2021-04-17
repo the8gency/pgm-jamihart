@@ -19,14 +19,15 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 ![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
 ![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=orange)
 ![SASS](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=orange)
-![node.js](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=Node.js&logoColor=white&color=orange) 
-![visual studio](https://img.shields.io/badge/Editor-VisualStudioCode?style=flat&logo=visual-studio-code&logoColor=white&color=orange)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=orange) 
 
-![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=orange) 
-![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=orange) 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=orange) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=orange) 
+![node.js](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=Node.js&logoColor=white&color=blue) 
+![visual studio](https://img.shields.io/badge/Editor-VisualStudioCode?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=blue) 
+
+![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=yellow) 
+![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=yellow) 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow) 
 
 
  
