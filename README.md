@@ -29,19 +29,14 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow) 
 
-
- 
 ---
 
 ### Personal details
 
-:cake: 23 years old (8/12/1997)
-
-:house_with_garden: Harmoniestraat 17, 9050, Ledeberg
-
-:telephone_receiver: +32 491 55 20 66
-
-:email: jamie-lee.hart@hotmail.com
+- :cake: 23 years old (8/12/1997)
+- :house_with_garden: Harmoniestraat 17, 9050, Ledeberg
+- :telephone_receiver: +32 491 55 20 66
+- :email: jamie-lee.hart@hotmail.com
 
 ---
 
@@ -52,7 +47,7 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pgm-jamihart)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jamieleehart)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15403327)   
+[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=black' alt='github' height='40'>](https://github.com/pgm-jamihart)  [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/)  [<img src='https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=blue' alt='facebook' height='40'>](https://www.facebook.com/jamieleehart)  [<img src='https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=stack-overflow&logoColor=white&color=orange' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15403327)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true)   
 
