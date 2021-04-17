@@ -1,7 +1,6 @@
 ![banner about jamie-lee](https://i.postimg.cc/1X76shjq/Banner-github.png)
 
 ## Hi there 👋, my name is Jamie-Lee Hart 
----
 
 ### Personal details
 
