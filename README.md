@@ -58,12 +58,15 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 ### Education 
 
 `2020 - 2022`
+
 Artevelde University Gent - *Graduate Programming*
 
 `2016 - 2020`
+
 Hogeschool Gent - *Bachelor Business Management Marketing* 
 
 `2011 - 2015`
+
 Mariagaard Wetteren - *Secondary Education Diploma Chemistry*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true)   
