@@ -49,7 +49,7 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ### Socials
 
-[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=black&color=white' alt='github' height='40'>](https://github.com/pgm-jamihart) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/) &nbsp; [<img src='https://img.shields.io/badge/%20-informational?style=flat&color=orange' alt='email nathanella monsaert' height='20'>](https://stackoverflow.com/users/15403327)   
+[<img src='https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=black&color=white' alt='github' height='40'>](https://github.com/pgm-jamihart) &nbsp; [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamie-lee-hart-272b08100/) &nbsp; [<img src='https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=stack-overflow&logoColor=white&color=orange' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15403327)   
 
 ---
 
@@ -94,7 +94,10 @@ Volunteer, bar employee and social media marketer.*
 > Jamie-Lee heeft met succes zijn stage marketing afgerond bij Roeland vzw en dat tijdens de corona crisis. Hierdoor werd zijn takenpakket aangepast, waardoor vooral grafisch werk, social media en communicatie op zijn agenda kwamen te staan. Jamie-Lee heeft die nieuwe taken op een rustige en vriendelijke manier aangepakt. Wat ik erg apprecieerde is zijn zelfstandigheid en leergierigheid. Hij heeft op eigen houtje Indesign, Photoshop en Illustrator geleerd met onder meer een vademecum van 50 pagina's als heel mooi eindresultaat. Daarnaast stelde Jamie-Lee zich heel proactief op door bijvoorbeeld zelf ideeën voor onze social mediakanalen spontaan uit te voeren, waardoor hij heel snel de appreciatie won van het hele team. Blockquotes are very handy in email to emulate reply text.
 > 
 Nathanëlla Monsaert - Internship supervisor  
-[<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='20'>](https://www.linkedin.com/in/nathanellamonsaert/) [<img src='https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=stack-overflow&logoColor=white&color=orange' alt='stackoverflow' height='20'>](mailto:nmonsaert@yahoo.com?subject=Reference%20Jamie-Lee%20Hart%20Roeland) 
+[<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='20'>](https://www.linkedin.com/in/nathanellamonsaert/) (mailto:nmonsaert@yahoo.com?subject=Reference%20Jamie-Lee%20Hart%20Roeland) 
+
+[<img src='https://img.shields.io/badge/%20-informational?style=flat&color=orange' alt='email nathanella monsaert' height='20'>](https://stackoverflow.com/users/15403327)   
+
 
 ---
 
