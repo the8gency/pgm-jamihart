@@ -14,10 +14,11 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ### Skills
 
-![Javascript](https://img.shields.io/badge/Code%20-Javascript-orange)
-
-
- JS / HTML / CSS / SASS / 11ty 
+![Javascript](https://img.shields.io/badge/Code%20-Javascript-orange) 
+![HTML](https://img.shields.io/badge/Code%20-HTML-orange)
+![CSS](https://img.shields.io/badge/Code%20-CSS-orange)
+![SASS](https://img.shields.io/badge/Code%20-SASS-orange)
+![11ty](https://img.shields.io/badge/Code%20-11ty-orange)
  
 ---
 
