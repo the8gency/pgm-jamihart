@@ -29,13 +29,13 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 
 ### Personal details
 
-23 years old 
+:cake: 23 years old (8/12/1997)
 
-Harmoniestraat 17, 9050, Ledeberg
+:house_with_garden: Harmoniestraat 17, 9050, Ledeberg
 
-+32 491 55 20 66
+:telephone_receiver: +32 491 55 20 66
 
-jamie-lee.hart@hotmail.com
+:email: jamie-lee.hart@hotmail.com
 
 ---
 
