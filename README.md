@@ -19,7 +19,7 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 ![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
 ![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=orange)
 ![SASS](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=orange)
-![node.js](https://img.shields.io/badge/https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=orange) 
+![node.js](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=orange) 
 ![visual studio](https://img.shields.io/badge/Editor-VisualStudioCode?style=flat&logo=visual-studio-code&logoColor=white&color=orange)
 
 
