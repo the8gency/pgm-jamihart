@@ -91,11 +91,11 @@ Volunteer, bar employee and social media marketer.*
 
 ### Reference
 
+Nathanëlla Monsaert - Internship supervisor 
+
 > Jamie-Lee heeft met succes zijn stage marketing afgerond bij Roeland vzw en dat tijdens de corona crisis. Hierdoor werd zijn takenpakket aangepast, waardoor vooral grafisch werk, social media en communicatie op zijn agenda kwamen te staan. Jamie-Lee heeft die nieuwe taken op een rustige en vriendelijke manier aangepakt. Wat ik erg apprecieerde is zijn zelfstandigheid en leergierigheid. Hij heeft op eigen houtje Indesign, Photoshop en Illustrator geleerd met onder meer een vademecum van 50 pagina's als heel mooi eindresultaat. Daarnaast stelde Jamie-Lee zich heel proactief op door bijvoorbeeld zelf ideeën voor onze social mediakanalen spontaan uit te voeren, waardoor hij heel snel de appreciatie won van het hele team. Blockquotes are very handy in email to emulate reply text.
 > 
-Nathanëlla Monsaert - Internship supervisor  
-
-[<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='30'>](https://www.linkedin.com/in/nathanellamonsaert/) &nbsp; [<img src='https://img.shields.io/badge/Mail-informational?style=flat&logoColor=blue&color=white' alt='email nathanella monsaert' height='30'>](mailto:nmonsaert@yahoo.com?subject=Reference%20Jamie-Lee%20Hart%20Roeland) 
+[<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='25'>](https://www.linkedin.com/in/nathanellamonsaert/) &nbsp; [<img src='https://img.shields.io/badge/Mail-informational?style=flat&logoColor=blue&color=white' alt='email nathanella monsaert' height='25'>](mailto:nmonsaert@yahoo.com?subject=Reference%20Jamie-Lee%20Hart%20Roeland) 
   
 ---
 
