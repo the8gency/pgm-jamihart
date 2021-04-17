@@ -27,7 +27,7 @@ I really enjoy learning UI, UX and front-end development. Last but not least I a
 ![Adobe XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=yellow) &nbsp; 
 ![Adobe Indesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=yellow) &nbsp; 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow) &nbsp; 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow) &nbsp; 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow) 
 
 ---
 
@@ -94,11 +94,9 @@ Volunteer, bar employee and social media marketer.*
 > Jamie-Lee heeft met succes zijn stage marketing afgerond bij Roeland vzw en dat tijdens de corona crisis. Hierdoor werd zijn takenpakket aangepast, waardoor vooral grafisch werk, social media en communicatie op zijn agenda kwamen te staan. Jamie-Lee heeft die nieuwe taken op een rustige en vriendelijke manier aangepakt. Wat ik erg apprecieerde is zijn zelfstandigheid en leergierigheid. Hij heeft op eigen houtje Indesign, Photoshop en Illustrator geleerd met onder meer een vademecum van 50 pagina's als heel mooi eindresultaat. Daarnaast stelde Jamie-Lee zich heel proactief op door bijvoorbeeld zelf ideeën voor onze social mediakanalen spontaan uit te voeren, waardoor hij heel snel de appreciatie won van het hele team. Blockquotes are very handy in email to emulate reply text.
 > 
 Nathanëlla Monsaert - Internship supervisor  
-[<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='20'>](https://www.linkedin.com/in/nathanellamonsaert/) (mailto:nmonsaert@yahoo.com?subject=Reference%20Jamie-Lee%20Hart%20Roeland) 
 
-[<img src='https://img.shields.io/badge/%20-informational?style=flat&color=orange' alt='email nathanella monsaert' height='20'>](https://stackoverflow.com/users/15403327)   
-
-
+[<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='30'>](https://www.linkedin.com/in/nathanellamonsaert/) &nbsp; [<img src='https://img.shields.io/badge/Mail-informational?style=flat&logoColor=blue&color=white' alt='email nathanella monsaert' height='30'>](mailto:nmonsaert@yahoo.com?subject=Reference%20Jamie-Lee%20Hart%20Roeland) 
+  
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true)   
