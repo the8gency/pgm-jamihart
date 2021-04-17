@@ -87,6 +87,15 @@ Digital & Online Marketing intern.*
 Gentbrugge  
 Volunteer, bar employee and social media marketer.*
 
+---
+
+### Reference
+
+> Jamie-Lee heeft met succes zijn stage marketing afgerond bij Roeland vzw en dat tijdens de corona crisis. Hierdoor werd zijn takenpakket aangepast, waardoor vooral grafisch werk, social media en communicatie op zijn agenda kwamen te staan. Jamie-Lee heeft die nieuwe taken op een rustige en vriendelijke manier aangepakt. Wat ik erg apprecieerde is zijn zelfstandigheid en leergierigheid. Hij heeft op eigen houtje Indesign, Photoshop en Illustrator geleerd met onder meer een vademecum van 50 pagina's als heel mooi eindresultaat. Daarnaast stelde Jamie-Lee zich heel proactief op door bijvoorbeeld zelf ideeën voor onze social mediakanalen spontaan uit te voeren, waardoor hij heel snel de appreciatie won van het hele team. Blockquotes are very handy in email to emulate reply text.
+> 
+Nathanëlla Monsaert - [<img src='https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/nathanellamonsaert/)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true)   
 
