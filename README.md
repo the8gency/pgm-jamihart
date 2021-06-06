@@ -93,7 +93,7 @@ Nathanëlla Monsaert - Internship supervisor
 
 ### Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true) &nbsp;  &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jamihart&show_icons=true&count_private=true) &nbsp;  &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jamihart&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
